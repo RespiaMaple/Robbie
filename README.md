@@ -9,6 +9,6 @@ unity 2D平台遊戲試做
 
 勝利條件:找到所有寶珠後會開門，進入門後即可獲勝
 
-遊戲成品:https://drive.google.com/drive/folders/11SVh-aH-BUpFQ3izy9hfa9rlP3PcP6xU?usp=share_link
+遊戲成品:https://drive.google.com/drive/folders/17az7EK9dVni8ws13aQYULC2h1ACoKoh3?usp=sharing
 
 Scripts:https://github.com/RespiaMaple/Robbie/tree/main/Robbie/Assets/Scripts
